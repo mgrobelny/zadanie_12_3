@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
+@import url('https://fonts.googleapis.com/css?family=Radley');
+
+body {
+	font-family: 'Radley', serif;
+}
+.container {
+	width: 90%;
+	margin: 40px auto;
+	background-color: rgba(1,39,102,0.9);
+	height: auto;
+	box-shadow: 2px 4px 20px 0px rgba(7,2,46,1);
+}
+button {
+	color: darkblue;
+	font-size: 16px;
+	cursor: pointer;
+	height: 37px;
+	font-weight: bold;
+	font-family: 'Radley', serif;
+}
+input {
+	height: 30px;
+	font-size: 16px;
+	color: red;
+	font-weight: bold;
+	font-family: 'Radley', serif;
+}
+h1 {
+	text-align: center;
+	color: white;
+	padding-top: 30px;
+	margin-bottom: 40px;
+	font-family: 'Berkshire Swash', cursive;
+}
+h2 {
+	margin-left: 10vw;
+	margin-top: 10vh;
+	color: white;
+	font-family: 'Berkshire Swash', cursive;
+}
+#countries {
+	margin-left: 5vw;
+	padding-bottom: 40px;
+	color: white;
+	font-size: 18px;
+}
+li {
+	padding: 5px;
+}
